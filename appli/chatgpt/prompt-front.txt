@@ -1,0 +1,5 @@
+Un composant frontend: basé sur une simple page HTML + javascript qui fera des requêtes vers notre composant back pour récupérer la ligne renvoyée par /racontemoiunehistoire.
+  Attention, l'URL complète (http://....../racontemoiunehistoire) devra etre configurable sous la forme d'une variable javascript
+
+User
+la fonction javascript devra n'etre appelee que sur le clique sur un bouton dans cette page, la phrase retournée par le backend sera affichée en dessous du bouton

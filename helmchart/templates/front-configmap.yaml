@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  creationTimestamp: null
+  name: front-cm
+data:
+  BACKEND_URL: "http://back.{{ .Release.Namespace }}.svc.cluster.local:5000/racontemoiunehistoire"

@@ -1,0 +1,3 @@
+User
+genere moi une api en python utilisant flask, cette api exposera le endpoint /racontemoiunehistoire en GET. 
+La fonction traitée par cet appel ira lire une ligne aléatoire dans un fichier texte en renverra cette ligne en réponse de notre api
